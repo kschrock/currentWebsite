@@ -8,7 +8,6 @@ tech:
   - React
   - Gatsby
   - HTML5
-company: 'Upstatement'
 showInProjects: true
 ---
 
